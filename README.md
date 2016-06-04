@@ -1,5 +1,7 @@
-#**Project**:  I2CArduino
+#Project:  I2CArduino
 
-###**Description**:  A base project to program an Arduino to be an I2C device that can be controlled by a RoboRio controller.  Specific uses can be forked from this project.
+###Description
+
+A base project to program an Arduino to be an I2C device that can be controlled by a RoboRio controller.  Specific uses can be forked from this project.
 
 See [MDHS Wiki]() for instructions.
