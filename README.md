@@ -7,8 +7,6 @@ I2C is a convenient communication protocol for peripheral sensors and actuators 
 ###Typical Use
 Typically, this project would be forked and the forked project would address a specific use for a particular season.
 
-   note: __Project not yet ready for forking__
-
 ###Credits & Additional reference Material
 This project is based on an awesome tutorial  by Wayne Truchsess that was published in 2012.  This tutorial can be found at http://dsscircuits.com/articles/arduino-i2c-slave-guide and is well worth the read.  It explains basic concepts.  I will assume the reader is familiar with the tutorial and basic I2C concepts. 
 
