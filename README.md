@@ -15,4 +15,6 @@ The project has been compiled and tested on the following Arduino boards:
 +   Uno
 +   MiniPro
 
-See [MDHS Wiki](https://github.com/MDHSRobotics/TeamWiki/wiki/) for instructions.
+See the [How to Use Arduino to Extend RoboRio](How to Use Arduino to Extend RoboRio) tutorial for more information on I2C and the design of this solution.  
+
+See the [How to Git](How to Git) tutorial for more information on how to fork this project.  
