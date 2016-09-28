@@ -17,4 +17,4 @@ The project has been compiled and tested on the following Arduino boards:
 
 See the [How to Use Arduino to Extend RoboRio](https://github.com/MDHSRobotics/TeamWiki/wiki/How%20to%20Use%20Arduino%20to%20Extend%20RoboRio) tutorial for more information on I2C and the design of this solution.  
 
-See the [How to Git](https://github.com/MDHSRobotics/TeamWiki/wiki/How%20to%20Git) tutorial for more information on how to fork this project.  
+Typically, this project would be duplicated for each season. see the [Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository/) guide from GitHub
